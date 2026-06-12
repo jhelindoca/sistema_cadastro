@@ -1,0 +1,7 @@
+C:\Users\jhemily.lslauro\source\repos\sistemadecadastro\sistemadecadastro\bin\Debug\sistemadecadastro.exe.config
+C:\Users\jhemily.lslauro\source\repos\sistemadecadastro\sistemadecadastro\bin\Debug\sistemadecadastro.exe
+C:\Users\jhemily.lslauro\source\repos\sistemadecadastro\sistemadecadastro\bin\Debug\sistemadecadastro.pdb
+C:\Users\jhemily.lslauro\source\repos\sistemadecadastro\sistemadecadastro\obj\Debug\sistemadecadastro.csproj.AssemblyReference.cache
+C:\Users\jhemily.lslauro\source\repos\sistemadecadastro\sistemadecadastro\obj\Debug\sistemadecadastro.csproj.CoreCompileInputs.cache
+C:\Users\jhemily.lslauro\source\repos\sistemadecadastro\sistemadecadastro\obj\Debug\sistemadecadastro.exe
+C:\Users\jhemily.lslauro\source\repos\sistemadecadastro\sistemadecadastro\obj\Debug\sistemadecadastro.pdb
